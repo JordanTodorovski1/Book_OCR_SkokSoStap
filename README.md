@@ -16,7 +16,7 @@ Pages are separated using markers (e.g. === page_x ===).
 ## 4. Parsing & Structuring
 The raw text is parsed and split into pages.
 Each page is mapped into a structured format (dictionary of page → text).
-## 5. Document Generation (this file)
+## 5. Document Generation
 A Word document is created programmatically.
 The system:
 applies default formatting (Times New Roman, 12pt)
